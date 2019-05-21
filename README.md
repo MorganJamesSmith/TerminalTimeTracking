@@ -26,3 +26,8 @@ YYYY-MM-DD,HH:MM,Activity Name:Subactivity, Activity Location, Notes,
  - Actually implement subactivities
  - Create a graphical output
  - add an activity to the CSV
+
+## Coding Style
+[Suckless Coding Style](https://suckless.org/coding_style/)
+
+
